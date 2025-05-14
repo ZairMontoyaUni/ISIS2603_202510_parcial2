@@ -1,5 +1,8 @@
 # ISIS2603202510ParcialPractico2
 
+Zair Samuel  Montoya Bello - 202321067
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
 
 ## Development server

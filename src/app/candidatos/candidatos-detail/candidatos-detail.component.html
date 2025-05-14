@@ -1,9 +1,10 @@
 <div>
-    <h3>{{candidato.nombre}}</h3>
-    <div>
+    
+    <div style =  "text-align: center">
         <div style="width: 50%; display: inline-block;">
-            <img [src]="candidato.foto" alt="{{ candidato.nombre }}" style="width: 80%; ">
+            <img [src]="candidato.foto" alt="{{ candidato.nombre }}" class="imagen-circular">
         </div>
+        <h3>{{candidato.nombre}}</h3>
         
         <div style="width: 50%; display: inline-block;">
             <p><strong>Pais de Origen: </strong> {{candidato.pais_origen}} </p>

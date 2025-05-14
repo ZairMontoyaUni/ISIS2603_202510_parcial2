@@ -1,0 +1,5 @@
+.imagen-circular {
+    width: 500px; /* Puedes ajustar el tamaño */
+    height: 500px; /* Ajustar el tamaño */
+    border-radius: 50%; /* Hace que la imagen sea circular */
+}
